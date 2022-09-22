@@ -3,7 +3,9 @@ Hola GitHub esta es mi primera práctica en la plataforma
 Colores del arcoiris 
 
 rojo
+naranja 
+amarillo
 verde
 azul 
 morado
-amarillo
+violeta
